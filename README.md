@@ -1,2 +1,2 @@
 # immortal-life
-Revive the dead, and immortal life 15
+Revive the dead, and immortal life
